@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Mwangi Brian";
+            document.title = "Portfolio | Shikuku Bill";
             $("#favicon").attr("href", "assets/skills/");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "Full Stack Web Development", "Graphics Design"],
+    strings: ["Statistician", "Data Science", "Web Designing", "Digital Marketing", "Graphics Design"],
     loop: true,
     typeSpeed: 60,
     backSpeed: 30,
