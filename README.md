@@ -1,4 +1,5 @@
-# chieby-mwangi.github.io
+# billshikuku.github.io
+
 Sure! Here’s a comprehensive README file template for your portfolio website project:
 
 # My Portfolio Website
@@ -32,11 +33,13 @@ Welcome to my personal portfolio website! This site is designed to showcase my s
 To view or modify this project locally, follow these steps:
 
 1. **Clone the Repository:**
+
    ```bash
-   git clone https://github.com/chieby-mwangi/chieby-mwangi.github.io
+   git clone https://github.com/makakabill/billshikuku.github.io.git
    ```
 
 2. **Navigate to the Project Directory:**
+
    ```bash
    cd portfolio-website
    ```
@@ -70,9 +73,10 @@ To view or modify this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. 
----
+## This project is licensed under the MIT License.
 
 Feel free to customize this template further to fit your specific project details.
-   ```
 
+```
+
+```
