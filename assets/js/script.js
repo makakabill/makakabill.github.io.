@@ -75,7 +75,6 @@ document.addEventListener("visibilitychange", function () {
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
   strings: [
-    "Statistics",
     "Data Science",
     "Web Designing",
     "Digital Marketing",
